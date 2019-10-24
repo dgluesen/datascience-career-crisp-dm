@@ -17,9 +17,7 @@ There are a number of selection procedures that applicants have to pass dependin
 
 Companies that want to give their newcomers a smooth start can score with accurate on-boarding plans. However, I strongly encourage applicants to ask in the application process whether there is a mentoring opportunity or if new entrants can meet at regular supported network events. This makes it easier to find important contacts for later projects.
 
-<img src="IMG/workpractice.png"
-     width = 290
-     style = "float: right; margin: 20px; margin-top: 10px;" />
+<img align="right" width=290 src="IMG/workpractice.png">
 
 #### Work practice
 The fourth step in the process is modeling, the heart of the data project. Accordingly, the topic of professional practice is central. In what situation can the data scientist find him or herself in the company? From my point of view, this will happen between two extremes: The pioneer on the analytical green-field and the new player in the established data science team. The advantages and disadvantages of these two poles should be compared with one's own wishes.
@@ -39,9 +37,8 @@ In addition, companies are dynamic systems so that the environment of the data s
 #### Decisions
 
 After a successful project, the data product will be deployed as foreseen in the final phase of the CRISP-DM. I put decision making in this position for the career cycle. This does not only take place once a year or once a quarter. Rather, it serves one's own well-being to repeatedly make the individual aware of his or her situation. This leads to a continuous decision-making process in which questions such as the following are answered:
-<img src="IMG/decisions.png"
-     width = 300
-     style = "float: right; margin: 25px; margin-top: 50px;" />
+
+<img align="right" width=300 src="IMG/decisions.png">
 
 * Does the main task (still) correspond to my interests?
 * Can I improve my abilities and use my knowledge well?
