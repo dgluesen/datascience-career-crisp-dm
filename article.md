@@ -2,7 +2,15 @@
 ## Data science career reflection based on CRISP-DM process model
 *Dennis Gluesenkamp*
 
-How can I share my own professional experience with Master's students in business analytics and data science and encourage them to self-reflect? I asked myself this question recently when I was invited to give a guest lecture at a university of applied sciences. My approach is to adapt the CRISP-DM process model [[1]](#ref1), which is familiar to many students and practitioners in the field of data science. This way, one's own career and job planning is comprehensively reviewed - not only for students. This review seems to be in the interest of the individual, not at least due to the high fluctuation among data scientists [[2]](#ref2).
+How can I share my own professional experience with Master's students in business analytics and data science and encourage them to self-reflect? I asked myself this question recently when I was invited to give a guest lecture at a university of applied sciences. My approach is to adapt the CRISP-DM process model [[1]](#ref1), which is familiar to many students and practitioners in the field of data science. With a total of six steps (see Figure 1), the model describes how data sets can be systematically explored for patterns and relationships.
+
+<p align="center"><img src="IMG/crisp-dm.png"></p>
+<p align="center"><em>Fig. 1: CRISP-DM process model</em></p>
+
+By adjusting the objectives of the six steps, however, a model can also be formulated to reflect one's own career and job planning. This model can then be applied not only to students but also to professionals who are rethinking their current situation or are even open to a change. This results in the diagram shown in Figure 2, which is discussed below. Such a reflection seems to be in the interest of the individual, not at least due to the high fluctuation among data scientists [[2]](#ref2).
+
+<p align="center"><img src="IMG/career-model.png"></p>
+<p align="center"><em>Fig. 2: CRISP-DM inspired career reflection model</em></p>
 
 #### Industry and technical knowledge
 
