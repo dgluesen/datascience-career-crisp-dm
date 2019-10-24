@@ -38,7 +38,7 @@ In addition, companies are dynamic systems so that the environment of the data s
 
 After a successful project, the data product will be deployed as foreseen in the final phase of the CRISP-DM. I put decision making in this position for the career cycle. This does not only take place once a year or once a quarter. Rather, it serves one's own well-being to repeatedly make the individual aware of his or her situation. This leads to a continuous decision-making process in which questions such as the following are answered:
 
-<img align="right" width=300 src="IMG/decisions.png">
+<img align="right" width=275 src="IMG/decisions.png">
 
 * Does the main task (still) correspond to my interests?
 * Can I improve my abilities and use my knowledge well?
