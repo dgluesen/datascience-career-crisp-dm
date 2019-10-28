@@ -2,7 +2,7 @@
 ## Data science career reflection based on CRISP-DM process model
 *Dennis Gluesenkamp*
 
-How can I share my own professional experience with Master's students in business analytics and data science and encourage them to self-reflect? I asked myself this question recently when I was invited to give a guest lecture at a university of applied sciences. My approach is to adapt the CRISP-DM process model [[1]](#ref1), which is familiar to many students and practitioners in the field of data science. With a total of six steps (see Figure 1), the model describes how data sets can be systematically explored for patterns and relationships.
+How can I share my own professional experience with Master's students in business analytics and data science? Encourage them to self-reflect? I asked myself this question recently when I was invited to give a guest lecture at a university of applied sciences. My approach is to adapt the CRISP-DM process model [[1]](#ref1) which is familiar to many students and practitioners in the field of data science. With a total of six steps (see Figure 1), the model describes how data sets can be systematically explored for patterns and relationships.
 
 <p align="center"><img src="IMG/crisp-dm.png"></p>
 <p align="center"><em>Fig. 1: CRISP-DM process model</em></p>
