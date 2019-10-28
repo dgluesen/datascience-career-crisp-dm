@@ -1,6 +1,13 @@
 ![](/IMG/title.png)
 ## Data science career reflection based on CRISP-DM process model
-*Dennis Gluesenkamp*
+
+*October 2019 // Dennis Gluesenkamp*
+<br>
+<a title="linkedin.com/in/dennisgluesenkamp" href="https://linkedin.com/in/dennisgluesenkamp" target="_blank" rel="noopener"><img src="https://cdn3.iconfinder.com/data/icons/social-media-2253/17/Vector-4-128.png" alt="" hspace=10 width="20" height="20" /></a> &nbsp;
+<a title="@dgluesen" href="https://twitter.com/dgluesen" target="_blank" rel="noopener"><img src="https://cdn3.iconfinder.com/data/icons/social-media-2253/17/Vector-3-128.png" alt="" hspace=10 width="24" height="20" /></a> &nbsp;
+<a title="@dgluesen" href="https://instagram.com/dgluesen" target="_blank" rel="noopener"><img src="https://cdn3.iconfinder.com/data/icons/social-media-2253/17/Vector-1-128.png" alt="" hspace=10 width="20" height="20" /></a> &nbsp;
+<a title="@dgluesen" href="https://github.com/dgluesen" target="_blank" rel="noopener"><img src="https://cdn3.iconfinder.com/data/icons/social-media-2253/25/Group-512.png" alt="" hspace=10 width="20" height="20" /></a>
+<br>
 
 How can I share my own professional experience with Master's students in business analytics and data science? Encourage them to self-reflect? I asked myself this question recently when I was invited to give a guest lecture at a university of applied sciences. My approach is to adapt the CRISP-DM process model [[1]](#ref1) which is familiar to many students and practitioners in the field of data science. With a total of six steps (see Figure 1), the model describes how data sets can be systematically explored for patterns and relationships.
 
@@ -19,7 +26,7 @@ The first two steps of the CRISP-DM are business understanding on the one hand a
 From this, conclusions can be drawn for individual professional focus or personal development. Because even if companies do not always explicitly demand this, knowledge of the industry is a clear advantage when applying for jobs and also for internal advancement.
 
 #### Application and job preparation
-An estimated 80% of the effort for a data project is spent on preprocessing [[3]](#ref3), the next step in the CRISP-DM cycle. According to Waters [[4]](#ref4), the search for a new job is also a constant, time-consuming task for data scientists, therefore this is the third part in the career reflection caycle. The underlying reasons for this fluctuation are not taken into account at this point.
+An estimated 80% of the effort for a data project is spent on preprocessing [[3]](#ref3), the next step in the CRISP-DM cycle. According to Waters [[4]](#ref4), the search for a new job is also a constant, time-consuming task for data scientists, therefore this is the third part in the career reflection cycle. The underlying reasons for this fluctuation are not taken into account at this point.
 
 There are a number of selection procedures that applicants have to pass depending on the focus of the position and also the degree of data maturity of the company. The classical interviews just like assessment centers belong to the consistently typically used procedures. In my experience however, a division into two dimensions is already apparent with quantitative case studies. On the one hand, applicants have to expect this selection test if the company has already made progress in the area of data-driven decision-making. On the other hand, these cases seem to occur less frequently the more strategic the role to be filled is. The focus here is on business case studies and the cultural match with the applicant. How can one further figure out where a company stands? Well, ask for it: What data projects did the company carry out last year? How many Data Scientists worked on it? With which organizational structure does the company want to become more data-driven?
 
