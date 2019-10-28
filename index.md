@@ -2,12 +2,12 @@
 ## Data science career reflection based on CRISP-DM process model
 
 *October 2019 // Dennis Gluesenkamp*
-<br>
-<a title="linkedin.com/in/dennisgluesenkamp" href="https://linkedin.com/in/dennisgluesenkamp" target="_blank" rel="noopener"><img src="https://cdn3.iconfinder.com/data/icons/social-media-2253/17/Vector-4-128.png" alt="" hspace="15" width="20" height="20" /></a>
-<a title="@dgluesen" href="https://twitter.com/dgluesen" target="_blank" rel="noopener"><img src="https://cdn3.iconfinder.com/data/icons/social-media-2253/17/Vector-3-128.png" alt="" hspace="15" width="24" height="20" /></a>
-<a title="@dgluesen" href="https://instagram.com/dgluesen" target="_blank" rel="noopener"><img src="https://cdn3.iconfinder.com/data/icons/social-media-2253/17/Vector-1-128.png" alt="" hspace="15" width="20" height="20" /></a>
-<a title="@dgluesen" href="https://github.com/dgluesen" target="_blank" rel="noopener"><img src="https://cdn3.iconfinder.com/data/icons/social-media-2253/25/Group-512.png" alt="" hspace="15" width="20" height="20" /></a>
-<br>
+<br><br>
+<a title="linkedin.com/in/dennisgluesenkamp" href="https://linkedin.com/in/dennisgluesenkamp" target="_blank" rel="noopener"><img src="https://cdn3.iconfinder.com/data/icons/social-media-2253/17/Vector-4-128.png" alt="" hspace="5" width="20" height="20" /></a>
+<a title="@dgluesen" href="https://twitter.com/dgluesen" target="_blank" rel="noopener"><img src="https://cdn3.iconfinder.com/data/icons/social-media-2253/17/Vector-3-128.png" alt="" hspace="5" width="24" height="20" /></a>
+<a title="@dgluesen" href="https://instagram.com/dgluesen" target="_blank" rel="noopener"><img src="https://cdn3.iconfinder.com/data/icons/social-media-2253/17/Vector-1-128.png" alt="" hspace="5" width="20" height="20" /></a>
+<a title="@dgluesen" href="https://github.com/dgluesen" target="_blank" rel="noopener"><img src="https://cdn3.iconfinder.com/data/icons/social-media-2253/25/Group-512.png" alt="" hspace="5" width="20" height="20" /></a>
+<br><br>
 
 How can I share my own professional experience with Master's students in business analytics and data science? Encourage them to self-reflect? I asked myself this question recently when I was invited to give a guest lecture at a university of applied sciences. My approach is to adapt the CRISP-DM process model [[1]](#ref1) which is familiar to many students and practitioners in the field of data science. With a total of six steps (see Figure 1), the model describes how data sets can be systematically explored for patterns and relationships.
 
