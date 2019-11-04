@@ -34,7 +34,7 @@ RESPONSIVE
 body {
   font-family: 'Assistant', sans-serif;
   font-size: 16px;
-  color: #505050;
+  color: #404040;
   font-weight: 600;
   overflow-x: hidden;
 }
@@ -69,7 +69,7 @@ p {
 }
 
 a {
-  color: #11151c;
+  color: #404040;
   -webkit-transition: 0.2s color;
   transition: 0.2s color;
 }
@@ -92,7 +92,6 @@ a:hover, a:focus {
 
 ul, ol {
   margin: 0px;
-  margin-bottom: -10px;
   padding: 0;
   list-style: none
 }
@@ -111,29 +110,34 @@ ol.list-style {
 }
 
 blockquote.blockquote {
-  padding: 30px;
-  margin: 0px 0px 20px;
-  border: 2px solid #e8eaed;
+  padding: 20px;
+  margin: 15px 75px 15px 75px;
+  border: 2px solid #dee0e3;
+  background: #edeff2;
+  font-size: 15px;
+  font-style: italic;
 }
 
 blockquote.blockquote:before {
   content: "\f10d";
   font-family: fontAwesome;
-  width: 70px;
-  height: 70px;
-  line-height: 70px;
+  font-style: normal;
+  width: 45px;
+  height: 45px;
+  line-height: 42px;
   text-align: center;
   border-radius: 50%;
   color: #2289c9;
-  font-size: 30px;
-  background: #fff;
-  border: 2px solid #e8eaed;
+  font-size: 16px;
+  background: #edeff2;
+  border: 2px solid #dee0e3;
   float: left;
   margin-right: 10px;
 }
 
 blockquote.blockquote .blockquote-footer {
-  color: #97989b;
+  font-style: normal;
+  color: #818285;
 }
 
 figure {
@@ -159,9 +163,9 @@ figure.pull-left {
 figure>figcaption {
   font-size: 14px;
   text-align: center;
-  margin-top: -7px;
+  margin-top: -5px;
   font-style: italic;
-  color: #97989b;
+  color: #606060;
 }
 
 /*----------------------------*\
@@ -287,6 +291,26 @@ textarea.input {
   background: #d341b2 !important;
 }
 
+.social-github {
+  background: #24292e !important;
+}
+/* import via <img src="img/github.png" width="53" height="53"><br><br> */
+
+.social-jupyter {
+  background: #f37626 !important;
+}
+/* import via <img src="img/jupyter.png" width="45" height="53"><br><br> */
+
+.social-rmarkdown {
+  background: #e91c2f !important;
+}
+/* import via <img src="img/rmarkdown.png" width="45" height="53"><br><br> */
+
+.social-presentation {
+  background: #4c6ef5 !important;
+}
+/* import via <img src="img/presentation.png" width="40" height="53"><br><br> */
+
 /*=========================================================
 	NAVIGATION
 ===========================================================*/
@@ -334,6 +358,7 @@ textarea.input {
 .nav-social {
   float: left;
   padding: 10px 0px;
+  font-size: 20px;
 }
 
 .nav-social li {
@@ -775,7 +800,7 @@ textarea.input {
 .post-category a {
   color: #2289c9;
   font-weight: 700;
-  font-size: 13px;
+  font-size: 16px;
   text-transform: uppercase;
 }
 
@@ -795,7 +820,7 @@ textarea.input {
 .post-meta li {
   display: inline-block;
   color: #97989b;
-  font-size: 12px;
+  font-size: 14px;
   text-transform: uppercase;
 }
 
@@ -809,7 +834,7 @@ textarea.input {
 }
 
 .post-meta li:after {
-  content: '•';
+  content: '//';
   display: inline-block;
   padding-left: 5px;
   padding-right: 5px;
@@ -1212,8 +1237,9 @@ textarea.input {
 
 .social-widget ul li a {
   display: block;
+  height: 160px;
   text-align: center;
-  padding: 30px 15px;
+  padding: 20px 15px;
   color: #fff;
   -webkit-transition: 0.2s opacity;
   transition: 0.2s opacity;
@@ -1292,7 +1318,12 @@ textarea.input {
 .category-widget ul li a {
   display: block;
   font-size: 14px;
-  font-weight: 500;
+  font-weight: 600;
+  color: #404040;
+}
+
+.category-widget ul li a:hover{
+  color: #2289c9;
 }
 
 .category-widget ul li a span {
