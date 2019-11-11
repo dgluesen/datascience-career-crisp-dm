@@ -306,6 +306,16 @@ textarea.input {
 }
 /* import via <img src="img/rmarkdown.png" width="45" height="53"><br><br> */
 
+.social-linkedin {
+  background: #0077b5 !important;
+}
+/* import via <img src="img/linkedin.png" width="46" height="53"><br><br> */
+
+.social-xing {
+  background: #026466 !important;
+}
+/* import via <img src="img/xing.png" width="46" height="53"><br><br> */
+
 .social-presentation {
   background: #4c6ef5 !important;
 }
