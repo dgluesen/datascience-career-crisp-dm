@@ -316,6 +316,11 @@ textarea.input {
 }
 /* import via <img src="img/xing.png" width="46" height="53"><br><br> */
 
+.social-medium {
+  background: #00ab6c !important;
+}
+/* import via <img src="img/medium.png" width="46" height="53"><br><br> */
+
 .social-presentation {
   background: #4c6ef5 !important;
 }
